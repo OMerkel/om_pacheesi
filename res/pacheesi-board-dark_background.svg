@@ -1,0 +1,3179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="90 90 820 820"
+   width="820"
+   height="820"
+   version="1.1"
+   id="svg291"
+   sodipodi:docname="pacheesi-board-ornament nests copy.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview291"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0792683"
+     inkscape:cx="409.53672"
+     inkscape:cy="410"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg291" />
+  <title
+     id="title1">Pacheesi Board - Initial Setup</title>
+  <desc
+     id="desc1">Pacheesi board with four arms and all pawns in starting nests.</desc>
+  <style
+     id="style1"><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&display=swap');
+    ]]></style>
+  <defs
+     id="defs128">
+    <g
+       id="safety_space">
+      <circle
+         cx="12"
+         cy="12"
+         r="10"
+         fill="#f7f4e8"
+         stroke="#000"
+         stroke-width="0.4"
+         id="circle1" />
+      <g
+         id="arcs">
+        <path
+           d="M 12 12 L 22 12 A 10 10 0 0 0 19.071 4.929 Z"
+           fill="#803300"
+           stroke="#000"
+           stroke-width="0"
+           id="path1" />
+        <path
+           d="M 12 12 L 22 12 A 10 10 0 0 0 19.071 4.929 Z"
+           fill="#e9c6af"
+           stroke="#000"
+           stroke-width="0"
+           transform="rotate(45 12 12)"
+           id="path2" />
+        <path
+           d="M 12 12 L 22 12 A 10 10 0 0 0 19.071 4.929 Z"
+           fill="#d38d5f"
+           stroke="#000"
+           stroke-width="0"
+           transform="rotate(90 12 12)"
+           id="path3" />
+        <path
+           d="M 12 12 L 22 12 A 10 10 0 0 0 19.071 4.929 Z"
+           fill="#a05a2c"
+           stroke="#000"
+           stroke-width="0"
+           transform="rotate(135 12 12)"
+           id="path4" />
+        <path
+           d="M 12 12 L 22 12 A 10 10 0 0 0 19.071 4.929 Z"
+           fill="#803300"
+           stroke="#000"
+           stroke-width="0"
+           transform="rotate(180 12 12)"
+           id="path5" />
+        <path
+           d="M 12 12 L 22 12 A 10 10 0 0 0 19.071 4.929 Z"
+           fill="#e9c6af"
+           stroke="#000"
+           stroke-width="0"
+           transform="rotate(225 12 12)"
+           id="path6" />
+        <path
+           d="M 12 12 L 22 12 A 10 10 0 0 0 19.071 4.929 Z"
+           fill="#d38d5f"
+           stroke="#000"
+           stroke-width="0"
+           transform="rotate(270 12 12)"
+           id="path7" />
+        <path
+           d="M 12 12 L 22 12 A 10 10 0 0 0 19.071 4.929 Z"
+           fill="#a05a2c"
+           stroke="#000"
+           stroke-width="0"
+           transform="rotate(315 12 12)"
+           id="path8" />
+      </g>
+      <g
+         id="center-glyph">
+        <text
+           x="12"
+           y="13.1"
+           fill="#000"
+           font-size="16"
+           font-family="Segoe UI Symbol, DejaVu Sans, Arial Unicode MS, sans-serif"
+           text-anchor="middle"
+           dominant-baseline="middle"
+           id="text8">★</text>
+      </g>
+    </g>
+    <clipPath
+       id="home-ornament-clip">
+      <rect
+         x="390"
+         y="390"
+         width="220"
+         height="220"
+         rx="80"
+         id="rect8" />
+    </clipPath>
+    <radialGradient
+       id="home-floral-glow"
+       cx="50%"
+       cy="45%"
+       r="62%">
+      <stop
+         offset="0%"
+         stop-color="#fff6e7"
+         id="stop8" />
+      <stop
+         offset="62%"
+         stop-color="#edd0a7"
+         id="stop9" />
+      <stop
+         offset="100%"
+         stop-color="#d19a62"
+         id="stop10" />
+    </radialGradient>
+    <pattern
+       id="home-azulejo"
+       patternUnits="userSpaceOnUse"
+       width="30"
+       height="30"
+       patternTransform="rotate(45 500 500)">
+      <rect
+         x="0"
+         y="0"
+         width="30"
+         height="30"
+         fill="#f8ecd8"
+         id="rect10" />
+      <path
+         d="M 0 15 L 15 0 L 30 15 L 15 30 Z"
+         fill="none"
+         stroke="#a3542e"
+         stroke-width="1"
+         id="path10" />
+      <circle
+         cx="15"
+         cy="15"
+         r="2.4"
+         fill="#bf6f3e"
+         id="circle10" />
+      <path
+         d="M 0 15 H 30 M 15 0 V 30"
+         stroke="#8b3a2f"
+         stroke-width="0.45"
+         opacity="0.45"
+         id="path11" />
+    </pattern>
+    <path
+       id="home-petal"
+       d="M 500 500 C 508 484 524 468 500 446 C 476 468 492 484 500 500 Z" />
+    <g
+       id="home-floral-rosette">
+      <g
+         fill="#b85f35"
+         stroke="#7f2f22"
+         stroke-width="1.2"
+         id="g22">
+        <use
+           href="#home-petal"
+           id="use11" />
+        <use
+           href="#home-petal"
+           transform="rotate(30 500 500)"
+           id="use12" />
+        <use
+           href="#home-petal"
+           transform="rotate(60 500 500)"
+           id="use13" />
+        <use
+           href="#home-petal"
+           transform="rotate(90 500 500)"
+           id="use14" />
+        <use
+           href="#home-petal"
+           transform="rotate(120 500 500)"
+           id="use15" />
+        <use
+           href="#home-petal"
+           transform="rotate(150 500 500)"
+           id="use16" />
+        <use
+           href="#home-petal"
+           transform="rotate(180 500 500)"
+           id="use17" />
+        <use
+           href="#home-petal"
+           transform="rotate(210 500 500)"
+           id="use18" />
+        <use
+           href="#home-petal"
+           transform="rotate(240 500 500)"
+           id="use19" />
+        <use
+           href="#home-petal"
+           transform="rotate(270 500 500)"
+           id="use20" />
+        <use
+           href="#home-petal"
+           transform="rotate(300 500 500)"
+           id="use21" />
+        <use
+           href="#home-petal"
+           transform="rotate(330 500 500)"
+           id="use22" />
+      </g>
+      <g
+         fill="#d0894f"
+         stroke="#7f2f22"
+         stroke-width="1"
+         id="g30">
+        <use
+           href="#home-petal"
+           transform="scale(0.78 0.78) translate(141 141)"
+           id="use23" />
+        <use
+           href="#home-petal"
+           transform="rotate(45 500 500) scale(0.78 0.78) translate(141 141)"
+           id="use24" />
+        <use
+           href="#home-petal"
+           transform="rotate(90 500 500) scale(0.78 0.78) translate(141 141)"
+           id="use25" />
+        <use
+           href="#home-petal"
+           transform="rotate(135 500 500) scale(0.78 0.78) translate(141 141)"
+           id="use26" />
+        <use
+           href="#home-petal"
+           transform="rotate(180 500 500) scale(0.78 0.78) translate(141 141)"
+           id="use27" />
+        <use
+           href="#home-petal"
+           transform="rotate(225 500 500) scale(0.78 0.78) translate(141 141)"
+           id="use28" />
+        <use
+           href="#home-petal"
+           transform="rotate(270 500 500) scale(0.78 0.78) translate(141 141)"
+           id="use29" />
+        <use
+           href="#home-petal"
+           transform="rotate(315 500 500) scale(0.78 0.78) translate(141 141)"
+           id="use30" />
+      </g>
+      <circle
+         cx="500"
+         cy="500"
+         r="13"
+         fill="#8f3d28"
+         id="circle30" />
+      <circle
+         cx="500"
+         cy="500"
+         r="5"
+         fill="#f6e8d1"
+         id="circle31" />
+    </g>
+    <g
+       id="home-vines"
+       fill="none"
+       stroke="#8b3a2f"
+       stroke-width="1.3"
+       stroke-linecap="round">
+      <path
+         d="M 500 420 C 522 426 538 442 542 462 C 534 446 522 438 508 436"
+         id="path31" />
+      <path
+         d="M 580 500 C 574 522 558 538 538 542 C 554 534 562 522 564 508"
+         id="path32" />
+      <path
+         d="M 500 580 C 478 574 462 558 458 538 C 466 554 478 562 492 564"
+         id="path33" />
+      <path
+         d="M 420 500 C 426 478 442 462 462 458 C 446 466 438 478 436 492"
+         id="path34" />
+      <path
+         d="M 546 454 C 560 458 569 469 571 483"
+         id="path35" />
+      <path
+         d="M 454 546 C 440 542 431 531 429 517"
+         id="path36" />
+      <path
+         d="M 546 546 C 560 542 569 531 571 517"
+         id="path37" />
+      <path
+         d="M 454 454 C 440 458 431 469 429 483"
+         id="path38" />
+    </g>
+    <clipPath
+       id="blue-start-ornament-clip">
+      <rect
+         x="625"
+         y="115"
+         width="260"
+         height="260"
+         rx="60"
+         id="rect38" />
+    </clipPath>
+    <radialGradient
+       id="blue-start-glow"
+       cx="50%"
+       cy="42%"
+       r="72%">
+      <stop
+         offset="0%"
+         stop-color="#fcfeff"
+         id="stop38" />
+      <stop
+         offset="56%"
+         stop-color="#e5f1fa"
+         id="stop39" />
+      <stop
+         offset="100%"
+         stop-color="#c5ddee"
+         id="stop40" />
+    </radialGradient>
+    <pattern
+       id="blue-moorish-tile"
+       patternUnits="userSpaceOnUse"
+       width="44"
+       height="44">
+      <rect
+         x="0"
+         y="0"
+         width="44"
+         height="44"
+         fill="#f6fbff"
+         id="rect40" />
+      <path
+         d="M 22 4 L 29 12 L 40 15 L 32 22 L 40 29 L 29 32 L 22 40 L 15 32 L 4 29 L 12 22 L 4 15 L 15 12 Z"
+         fill="none"
+         stroke="#a5c4da"
+         stroke-width="0.95"
+         id="path40" />
+      <path
+         d="M 22 10 L 27 16 L 34 18 L 28 22 L 34 26 L 27 28 L 22 34 L 17 28 L 10 26 L 16 22 L 10 18 L 17 16 Z"
+         fill="none"
+         stroke="#bad2e4"
+         stroke-width="0.75"
+         id="path41" />
+      <path
+         d="M 0 22 H 44 M 22 0 V 44"
+         stroke="#cee0ec"
+         stroke-width="0.4"
+         opacity="0.5"
+         id="path42" />
+    </pattern>
+    <g
+       id="blue-moorish-center"
+       fill="none"
+       stroke="#8faec4"
+       stroke-linecap="round"
+       stroke-linejoin="round">
+      <path
+         d="M 755 162 L 809 191 L 838 245 L 809 299 L 755 328 L 701 299 L 672 245 L 701 191 Z"
+         fill="#e9f4fc"
+         stroke-width="1.7"
+         id="path43" />
+      <path
+         d="M 755 178 L 797 203 L 822 245 L 797 287 L 755 312 L 713 287 L 688 245 L 713 203 Z"
+         fill="#f4f9fe"
+         stroke="#a6c2d7"
+         stroke-width="1.2"
+         id="path44" />
+      <path
+         d="M 755 192 L 784 214 L 810 245 L 784 276 L 755 298 L 726 276 L 700 245 L 726 214 Z"
+         fill="#dcebf6"
+         stroke="#9fbdd3"
+         stroke-width="1.15"
+         id="path45" />
+      <path
+         d="M 755 208 L 773 223 L 792 245 L 773 267 L 755 282 L 737 267 L 718 245 L 737 223 Z"
+         fill="#eef6fc"
+         stroke="#b6cde0"
+         stroke-width="0.95"
+         id="path46" />
+      <g
+         stroke="#9fbed4"
+         stroke-width="6"
+         opacity="0.95"
+         id="g50">
+        <path
+           d="M 706 205 L 755 236 L 804 205"
+           id="path47" />
+        <path
+           d="M 804 285 L 755 254 L 706 285"
+           id="path48" />
+        <path
+           d="M 715 294 L 746 245 L 715 196"
+           id="path49" />
+        <path
+           d="M 795 196 L 764 245 L 795 294"
+           id="path50" />
+      </g>
+      <g
+         stroke="#e9f4fc"
+         stroke-width="2.4"
+         opacity="0.95"
+         id="g54">
+        <path
+           d="M 749 232 L 761 239"
+           id="path51" />
+        <path
+           d="M 761 251 L 749 258"
+           id="path52" />
+        <path
+           d="M 742 245 L 749 232"
+           id="path53" />
+        <path
+           d="M 768 245 L 761 258"
+           id="path54" />
+      </g>
+      <g
+         stroke="#9fbed4"
+         stroke-width="1.15"
+         opacity="0.9"
+         id="g58">
+        <path
+           d="M 755 176 V 314"
+           id="path55" />
+        <path
+           d="M 686 245 H 824"
+           id="path56" />
+        <path
+           d="M 710 200 L 800 290"
+           id="path57" />
+        <path
+           d="M 800 200 L 710 290"
+           id="path58" />
+      </g>
+      <path
+         d="M 755 222 L 768 233 L 779 245 L 768 257 L 755 268 L 742 257 L 731 245 L 742 233 Z"
+         fill="#cfe3f2"
+         stroke="#9ebbd1"
+         stroke-width="1.05"
+         id="path59" />
+      <path
+         d="M 755 230 L 763 238 L 770 245 L 763 252 L 755 260 L 747 252 L 740 245 L 747 238 Z"
+         fill="#f8fcff"
+         stroke="#bdd4e5"
+         stroke-width="0.8"
+         id="path60" />
+    </g>
+    <clipPath
+       id="red-start-ornament-clip">
+      <rect
+         x="115"
+         y="115"
+         width="260"
+         height="260"
+         rx="60"
+         id="rect60" />
+    </clipPath>
+    <radialGradient
+       id="red-start-glow"
+       cx="48%"
+       cy="40%"
+       r="74%">
+      <stop
+         offset="0%"
+         stop-color="#fff7f1"
+         id="stop60" />
+      <stop
+         offset="56%"
+         stop-color="#f6d7c9"
+         id="stop61" />
+      <stop
+         offset="100%"
+         stop-color="#e8b59b"
+         id="stop62" />
+    </radialGradient>
+    <pattern
+       id="red-moorish-tile"
+       patternUnits="userSpaceOnUse"
+       width="34"
+       height="34"
+       patternTransform="rotate(45 245 245)">
+      <rect
+         x="0"
+         y="0"
+         width="34"
+         height="34"
+         fill="#fdf2eb"
+         id="rect62" />
+      <path
+         d="M 17 3 L 25 9 L 31 17 L 25 25 L 17 31 L 9 25 L 3 17 L 9 9 Z"
+         fill="none"
+         stroke="#c78666"
+         stroke-width="1"
+         id="path62" />
+      <path
+         d="M 8 17 C 12 13 22 13 26 17 C 22 21 12 21 8 17 Z"
+         fill="none"
+         stroke="#d79d81"
+         stroke-width="0.8"
+         opacity="0.75"
+         id="path63" />
+      <path
+         d="M 0 17 H 34 M 17 0 V 34"
+         stroke="#e0b49e"
+         stroke-width="0.45"
+         opacity="0.45"
+         id="path64" />
+      <rect
+         x="15"
+         y="15"
+         width="4"
+         height="4"
+         fill="#d9a487"
+         id="rect64" />
+    </pattern>
+    <g
+       id="red-moorish-center"
+       fill="none"
+       stroke="#be7d62"
+       stroke-linecap="round"
+       stroke-linejoin="round">
+      <path
+         d="M 245 164 C 282 172 312 201 321 239 C 312 277 282 306 245 315 C 208 306 178 277 169 239 C 178 201 208 172 245 164 Z"
+         fill="#f8e1d4"
+         stroke-width="2"
+         id="path65" />
+      <path
+         d="M 245 181 C 274 188 296 210 304 239 C 296 268 274 290 245 297 C 216 290 194 268 186 239 C 194 210 216 188 245 181 Z"
+         fill="#fbeee6"
+         stroke="#cf977a"
+         stroke-width="1.5"
+         id="path66" />
+      <g
+         stroke="#cb8f71"
+         stroke-width="1.7"
+         opacity="0.95"
+         fill="#fdf4ee"
+         id="g70">
+        <path
+           d="M 245 188 C 261 201 271 217 273 236 C 258 229 244 229 229 236 C 232 217 241 201 245 188 Z"
+           id="path67" />
+        <path
+           d="M 296 239 C 283 255 267 264 248 266 C 257 251 257 237 248 222 C 267 224 283 233 296 239 Z"
+           id="path68" />
+        <path
+           d="M 245 290 C 229 277 219 261 217 242 C 232 249 246 249 261 242 C 258 261 249 277 245 290 Z"
+           id="path69" />
+        <path
+           d="M 194 239 C 207 223 223 214 242 212 C 233 227 233 241 242 256 C 223 254 207 245 194 239 Z"
+           id="path70" />
+      </g>
+      <g
+         stroke="#d9a185"
+         stroke-width="1.2"
+         opacity="0.9"
+         id="g78">
+        <path
+           d="M 216 201 C 228 215 240 223 255 225"
+           id="path71" />
+        <path
+           d="M 274 201 C 262 215 250 223 235 225"
+           id="path72" />
+        <path
+           d="M 296 214 C 282 226 274 238 273 253"
+           id="path73" />
+        <path
+           d="M 296 264 C 282 252 274 240 273 225"
+           id="path74" />
+        <path
+           d="M 216 277 C 228 263 240 255 255 253"
+           id="path75" />
+        <path
+           d="M 274 277 C 262 263 250 255 235 253"
+           id="path76" />
+        <path
+           d="M 194 214 C 208 226 216 238 217 253"
+           id="path77" />
+        <path
+           d="M 194 264 C 208 252 216 240 217 225"
+           id="path78" />
+      </g>
+      <path
+         d="M 245 220 L 262 239 L 245 258 L 228 239 Z"
+         fill="#e8b79e"
+         stroke="#c98f73"
+         stroke-width="1.8"
+         id="path79" />
+      <path
+         d="M 245 230 L 254 239 L 245 248 L 236 239 Z"
+         fill="#fff9f5"
+         stroke="#ddb199"
+         stroke-width="0.8"
+         id="path80" />
+    </g>
+    <clipPath
+       id="yellow-start-ornament-clip">
+      <rect
+         x="115"
+         y="625"
+         width="260"
+         height="260"
+         rx="60"
+         id="rect80" />
+    </clipPath>
+    <radialGradient
+       id="yellow-start-glow"
+       cx="50%"
+       cy="42%"
+       r="74%">
+      <stop
+         offset="0%"
+         stop-color="#fffef6"
+         id="stop80" />
+      <stop
+         offset="56%"
+         stop-color="#f8edc8"
+         id="stop81" />
+      <stop
+         offset="100%"
+         stop-color="#e8d59a"
+         id="stop82" />
+    </radialGradient>
+    <pattern
+       id="yellow-moorish-tile"
+       patternUnits="userSpaceOnUse"
+       width="36"
+       height="36">
+      <rect
+         x="0"
+         y="0"
+         width="36"
+         height="36"
+         fill="#fdf8e9"
+         id="rect82" />
+      <path
+         d="M 0 18 C 6 12 12 12 18 18 C 24 24 30 24 36 18"
+         fill="none"
+         stroke="#c8ae67"
+         stroke-width="0.95"
+         id="path82" />
+      <path
+         d="M 0 18 C 6 24 12 24 18 18 C 24 12 30 12 36 18"
+         fill="none"
+         stroke="#d8c183"
+         stroke-width="0.95"
+         id="path83" />
+      <path
+         d="M 18 0 C 12 6 12 12 18 18 C 24 24 24 30 18 36"
+         fill="none"
+         stroke="#c8ae67"
+         stroke-width="0.95"
+         id="path84" />
+      <path
+         d="M 18 0 C 24 6 24 12 18 18 C 12 24 12 30 18 36"
+         fill="none"
+         stroke="#d8c183"
+         stroke-width="0.95"
+         id="path85" />
+      <path
+         d="M 0 18 H 36 M 18 0 V 36"
+         stroke="#e4d2a3"
+         stroke-width="0.42"
+         opacity="0.45"
+         id="path86" />
+    </pattern>
+    <g
+       id="yellow-moorish-center"
+       fill="none"
+       stroke="#b69a55"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="translate(0 14)">
+      <path
+         d="M 245 650 L 336 741 L 245 832 L 154 741 Z"
+         fill="#f8edc8"
+         stroke="#ceb77c"
+         stroke-width="2.1"
+         id="path87" />
+      <path
+         d="M 245 662 L 324 741 L 245 820 L 166 741 Z"
+         fill="#fcf4db"
+         stroke="#d8c492"
+         stroke-width="1.95"
+         id="path88" />
+      <path
+         d="M 245 674 L 312 741 L 245 808 L 178 741 Z"
+         fill="#f9efcd"
+         stroke-width="1.9"
+         id="path89" />
+      <path
+         d="M 245 690 L 296 741 L 245 792 L 194 741 Z"
+         fill="#fff8e3"
+         stroke="#c8ad69"
+         stroke-width="1.45"
+         id="path90" />
+      <g
+         stroke-width="6"
+         opacity="0.95"
+         transform="matrix(0.96995 0.56 -0.56 0.96995 422.322 -114.934)"
+         id="g94">
+        <path
+           d="M 201 701 L 245 728 L 289 701"
+           stroke="#c3a45f"
+           id="path91" />
+        <path
+           d="M 289 781 L 245 754 L 201 781"
+           stroke="#c3a45f"
+           id="path92" />
+        <path
+           d="M 208 790 L 236 741 L 208 692"
+           stroke="#d5be80"
+           id="path93" />
+        <path
+           d="M 282 692 L 254 741 L 282 790"
+           stroke="#d5be80"
+           id="path94" />
+      </g>
+      <g
+         stroke="#fff9ea"
+         stroke-width="2.2"
+         opacity="0.95"
+         id="g98">
+        <path
+           d="M 239 727 L 250 734"
+           id="path95" />
+        <path
+           d="M 251 748 L 240 755"
+           id="path96" />
+        <path
+           d="M 233 741 L 240 727"
+           id="path97" />
+        <path
+           d="M 257 741 L 250 755"
+           id="path98" />
+      </g>
+      <g
+         stroke="#d7c184"
+         stroke-width="1.15"
+         opacity="0.9"
+         id="g102">
+        <path
+           d="M 245 686 V 796"
+           id="path99" />
+        <path
+           d="M 190 741 H 300"
+           id="path100" />
+        <path
+           d="M 207 703 L 283 779"
+           id="path101" />
+        <path
+           d="M 283 703 L 207 779"
+           id="path102" />
+      </g>
+      <path
+         d="M 245 707 L 266 724 L 279 741 L 266 758 L 245 775 L 224 758 L 211 741 L 224 724 Z"
+         fill="#e8cf90"
+         stroke="#c3a35e"
+         stroke-width="1.45"
+         id="path103" />
+      <path
+         d="M 245 716 L 260 729 L 270 741 L 260 753 L 245 766 L 230 753 L 220 741 L 230 729 Z"
+         fill="#f5e7bd"
+         stroke="#d1b676"
+         stroke-width="1.05"
+         id="path104" />
+      <path
+         d="M 245 726 L 254 734 L 262 741 L 254 748 L 245 756 L 236 748 L 228 741 L 236 734 Z"
+         fill="#fffdf4"
+         stroke="#dcc992"
+         stroke-width="0.9"
+         id="path105" />
+    </g>
+    <clipPath
+       id="green-start-ornament-clip">
+      <rect
+         x="625"
+         y="625"
+         width="260"
+         height="260"
+         rx="60"
+         id="rect105" />
+    </clipPath>
+    <radialGradient
+       id="green-start-glow"
+       cx="50%"
+       cy="42%"
+       r="74%">
+      <stop
+         offset="0%"
+         stop-color="#f7fff6"
+         id="stop105" />
+      <stop
+         offset="56%"
+         stop-color="#ddf1d8"
+         id="stop106" />
+      <stop
+         offset="100%"
+         stop-color="#b9ddba"
+         id="stop107" />
+    </radialGradient>
+    <pattern
+       id="green-moorish-tile"
+       patternUnits="userSpaceOnUse"
+       width="38"
+       height="38"
+       patternTransform="rotate(20 755 755)">
+      <rect
+         x="0"
+         y="0"
+         width="38"
+         height="38"
+         fill="#eef8ec"
+         id="rect107" />
+      <path
+         d="M 19 5 C 23 11 23 16 19 22 C 15 28 15 33 19 38 C 23 33 23 28 19 22 C 15 16 15 11 19 5 Z"
+         fill="none"
+         stroke="#8ab58a"
+         stroke-width="0.9"
+         id="path107" />
+      <path
+         d="M 5 19 C 11 23 16 23 22 19 C 28 15 33 15 38 19 C 33 23 28 23 22 19 C 16 15 11 15 5 19 Z"
+         fill="none"
+         stroke="#9fc79f"
+         stroke-width="0.9"
+         id="path108" />
+      <path
+         d="M 0 19 H 38 M 19 0 V 38"
+         stroke="#c7dfc6"
+         stroke-width="0.42"
+         opacity="0.45"
+         id="path109" />
+    </pattern>
+    <g
+       id="green-moorish-center"
+       fill="none"
+       stroke="#6f9f72"
+       stroke-linecap="round"
+       stroke-linejoin="round">
+      <path
+         d="M 755 671 C 796 681 826 713 835 755 C 826 797 796 829 755 839 C 714 829 684 797 675 755 C 684 713 714 681 755 671 Z"
+         fill="#e3f2e1"
+         stroke-width="1.9"
+         transform="rotate(45 755 755)"
+         id="path110" />
+      <path
+         d="M 755 671 C 796 681 826 713 835 755 C 826 797 796 829 755 839 C 714 829 684 797 675 755 C 684 713 714 681 755 671 Z"
+         fill="none"
+         stroke-width="1.9"
+         transform="matrix(-1 0 0 1 1510 0) rotate(45 755 755)"
+         id="path111" />
+      <path
+         d="M 755 690 C 786 698 809 723 816 755 C 809 787 786 812 755 820 C 724 812 701 787 694 755 C 701 723 724 698 755 690 Z"
+         fill="#f1f8ef"
+         stroke="#86b286"
+         stroke-width="1.4"
+         id="path112" />
+      <g
+         stroke="#7eab80"
+         stroke-width="1.7"
+         opacity="0.95"
+         fill="#ecf6ea"
+         transform="matrix(-1 0 0 1 1510 0)"
+         id="g118">
+        <path
+           id="green-lance-lobe"
+           d="M 755 698 C 767 712 772 726 772 742 C 764 736 756 736 748 742 C 748 726 752 712 755 698 Z" />
+        <use
+           href="#green-lance-lobe"
+           transform="rotate(45 755 755)"
+           id="use112" />
+        <use
+           href="#green-lance-lobe"
+           transform="rotate(90 755 755)"
+           id="use113" />
+        <use
+           href="#green-lance-lobe"
+           transform="rotate(135 755 755)"
+           id="use114" />
+        <use
+           href="#green-lance-lobe"
+           transform="rotate(180 755 755)"
+           id="use115" />
+        <use
+           href="#green-lance-lobe"
+           transform="rotate(225 755 755)"
+           id="use116" />
+        <use
+           href="#green-lance-lobe"
+           transform="rotate(270 755 755)"
+           id="use117" />
+        <use
+           href="#green-lance-lobe"
+           transform="rotate(315 755 755)"
+           id="use118" />
+      </g>
+      <g
+         stroke="#9cc29c"
+         stroke-width="1.2"
+         opacity="0.9"
+         id="g125">
+        <path
+           d="M 722 715 C 736 730 749 738 766 740"
+           id="path118" />
+        <path
+           d="M 788 715 C 774 730 761 738 744 740"
+           id="path119" />
+        <path
+           d="M 810 724 C 795 738 787 752 786 769"
+           id="path120" />
+        <path
+           d="M 810 786 C 795 772 787 758 786 741"
+           id="path121" />
+        <path
+           d="M 722 795 C 736 780 749 772 766 770"
+           id="path122" />
+        <path
+           d="M 788 795 C 774 780 761 772 744 770"
+           id="path123" />
+        <path
+           d="M 700 724 C 715 738 723 752 724 769"
+           id="path124" />
+        <path
+           d="M 700 786 C 715 772 723 758 724 741"
+           id="path125" />
+      </g>
+      <path
+         d="M 755 724 L 772 739 L 786 755 L 772 771 L 755 786 L 738 771 L 724 755 L 738 739 Z"
+         fill="#cde5cc"
+         stroke="#7faa80"
+         stroke-width="1.2"
+         id="path126" />
+      <path
+         d="M 755 724 L 772 739 L 786 755 L 772 771 L 755 786 L 738 771 L 724 755 L 738 739 Z"
+         fill="none"
+         stroke="#7faa80"
+         stroke-width="1.2"
+         transform="rotate(45 755 755)"
+         id="path127" />
+      <path
+         d="M 755 734 L 765 744 L 775 755 L 765 766 L 755 776 L 745 766 L 735 755 L 745 744 Z"
+         fill="#fbfefb"
+         stroke="#a7c9a7"
+         stroke-width="0.85"
+         id="path128" />
+    </g>
+  </defs>
+  <rect
+     width="1000"
+     height="1000"
+     fill="#f6f1e6"
+     id="rect128" />
+  <!-- Board base -->
+  <rect
+     x="100"
+     y="100"
+     width="800"
+     height="800"
+     rx="16"
+     fill="#1f1d17"
+     stroke="#333"
+     stroke-width="6"
+     id="rect129"
+     style="fill:#445500" />
+  <!-- Four colored nests (rough) -->
+  <g
+     clip-path="url(#red-start-ornament-clip)"
+     id="g131">
+    <rect
+       x="115"
+       y="115"
+       width="260"
+       height="260"
+       rx="60"
+       fill="url(#red-start-glow)"
+       id="rect130" />
+    <rect
+       x="115"
+       y="115"
+       width="260"
+       height="260"
+       rx="60"
+       fill="url(#red-moorish-tile)"
+       opacity="0.62"
+       id="rect131" />
+    <use
+       href="#red-moorish-center"
+       id="use131" />
+  </g>
+  <rect
+     x="115"
+     y="115"
+     width="260"
+     height="260"
+     rx="60"
+     fill="none"
+     stroke="#333"
+     stroke-width="3"
+     id="rect132" />
+  <g
+     clip-path="url(#blue-start-ornament-clip)"
+     id="g134">
+    <rect
+       x="625"
+       y="115"
+       width="260"
+       height="260"
+       rx="60"
+       fill="url(#blue-start-glow)"
+       id="rect133" />
+    <rect
+       x="625"
+       y="115"
+       width="260"
+       height="260"
+       rx="60"
+       fill="url(#blue-moorish-tile)"
+       opacity="0.6"
+       id="rect134" />
+    <use
+       href="#blue-moorish-center"
+       id="use134" />
+  </g>
+  <rect
+     x="625"
+     y="115"
+     width="260"
+     height="260"
+     rx="60"
+     fill="none"
+     stroke="#333"
+     stroke-width="3"
+     id="rect135" />
+  <g
+     clip-path="url(#yellow-start-ornament-clip)"
+     id="g137">
+    <rect
+       x="115"
+       y="625"
+       width="260"
+       height="260"
+       rx="60"
+       fill="url(#yellow-start-glow)"
+       id="rect136" />
+    <rect
+       x="115"
+       y="625"
+       width="260"
+       height="260"
+       rx="60"
+       fill="url(#yellow-moorish-tile)"
+       opacity="0.62"
+       id="rect137" />
+    <use
+       href="#yellow-moorish-center"
+       id="use137" />
+  </g>
+  <rect
+     x="115"
+     y="625"
+     width="260"
+     height="260"
+     rx="60"
+     fill="none"
+     stroke="#333"
+     stroke-width="3"
+     id="rect138" />
+  <g
+     clip-path="url(#green-start-ornament-clip)"
+     id="g140">
+    <rect
+       x="625"
+       y="625"
+       width="260"
+       height="260"
+       rx="60"
+       fill="url(#green-start-glow)"
+       id="rect139" />
+    <rect
+       x="625"
+       y="625"
+       width="260"
+       height="260"
+       rx="60"
+       fill="url(#green-moorish-tile)"
+       opacity="0.62"
+       id="rect140" />
+    <use
+       href="#green-moorish-center"
+       id="use140" />
+  </g>
+  <rect
+     x="625"
+     y="625"
+     width="260"
+     height="260"
+     rx="60"
+     fill="none"
+     stroke="#333"
+     stroke-width="3"
+     id="rect141" />
+  <!-- Four arms (3x8 each, not overlapping HOME disc) -->
+  <rect
+     x="395"
+     y="110"
+     width="210"
+     height="280"
+     fill="#f0ece2"
+     stroke="#333"
+     stroke-width="3"
+     id="rect142" />
+  <rect
+     x="395"
+     y="610"
+     width="210"
+     height="280"
+     fill="#f0ece2"
+     stroke="#333"
+     stroke-width="3"
+     id="rect143" />
+  <rect
+     x="110"
+     y="395"
+     width="280"
+     height="210"
+     fill="#f0ece2"
+     stroke="#333"
+     stroke-width="3"
+     id="rect144" />
+  <rect
+     x="610"
+     y="395"
+     width="280"
+     height="210"
+     fill="#f0ece2"
+     stroke="#333"
+     stroke-width="3"
+     id="rect145" />
+  <!-- Home rows: inner middle cells of each arm (outermost cell stays outer track) -->
+  <rect
+     x="465"
+     y="145"
+     width="70"
+     height="245"
+     fill="#f7c6c6"
+     id="rect146" />
+  <rect
+     x="610"
+     y="465"
+     width="245"
+     height="70"
+     fill="#c6d9f7"
+     id="rect147" />
+  <rect
+     x="465"
+     y="610"
+     width="70"
+     height="245"
+     fill="#c8efc8"
+     id="rect148" />
+  <rect
+     x="145"
+     y="465"
+     width="245"
+     height="70"
+     fill="#f7e7a8"
+     id="rect149" />
+  <!-- Center home (Spanish ornamentation) -->
+  <g
+     clip-path="url(#home-ornament-clip)"
+     id="g162">
+    <rect
+       x="390"
+       y="390"
+       width="220"
+       height="220"
+       rx="80"
+       fill="url(#home-floral-glow)"
+       id="rect150" />
+    <rect
+       x="390"
+       y="390"
+       width="220"
+       height="220"
+       rx="80"
+       fill="url(#home-azulejo)"
+       opacity="0.52"
+       id="rect151" />
+    <circle
+       cx="500"
+       cy="500"
+       r="88"
+       fill="#edd2ab"
+       stroke="#8b3a2f"
+       stroke-width="2.4"
+       id="circle151" />
+    <circle
+       cx="500"
+       cy="500"
+       r="72"
+       fill="#f8eddc"
+       stroke="#a0522d"
+       stroke-width="1.8"
+       id="circle152" />
+    <circle
+       cx="500"
+       cy="500"
+       r="58"
+       fill="#f0d8b4"
+       stroke="#8b3a2f"
+       stroke-width="1.4"
+       opacity="0.7"
+       id="circle153" />
+    <use
+       href="#home-vines"
+       id="use153" />
+    <use
+       href="#home-floral-rosette"
+       id="use154" />
+    <g
+       fill="#8b3a2f"
+       opacity="0.85"
+       id="g161">
+      <circle
+         cx="500"
+         cy="434"
+         r="2.8"
+         id="circle154" />
+      <circle
+         cx="566"
+         cy="500"
+         r="2.8"
+         id="circle155" />
+      <circle
+         cx="500"
+         cy="566"
+         r="2.8"
+         id="circle156" />
+      <circle
+         cx="434"
+         cy="500"
+         r="2.8"
+         id="circle157" />
+      <circle
+         cx="547"
+         cy="453"
+         r="2.3"
+         id="circle158" />
+      <circle
+         cx="547"
+         cy="547"
+         r="2.3"
+         id="circle159" />
+      <circle
+         cx="453"
+         cy="547"
+         r="2.3"
+         id="circle160" />
+      <circle
+         cx="453"
+         cy="453"
+         r="2.3"
+         id="circle161" />
+    </g>
+  </g>
+  <rect
+     x="390"
+     y="390"
+     width="220"
+     height="220"
+     rx="80"
+     fill="none"
+     stroke="#333"
+     stroke-width="4"
+     id="rect162" />
+  <!-- Home Label background -->
+  <rect
+     x="450"
+     y="483"
+     width="100"
+     height="33"
+     rx="20"
+     fill="white"
+     stroke="#333"
+     stroke-width="2"
+     opacity="0.5"
+     id="rect163" />
+  <!-- Arm lane guides: 3x8 per arm -->
+  <g
+     stroke="#666"
+     stroke-width="1"
+     fill="none"
+     opacity="0.85"
+     id="g198">
+    <!-- Top arm (3x8) -->
+    <line
+       x1="465"
+       y1="110"
+       x2="465"
+       y2="390"
+       id="line163" />
+    <line
+       x1="535"
+       y1="110"
+       x2="535"
+       y2="390"
+       id="line164" />
+    <line
+       x1="395"
+       y1="145"
+       x2="605"
+       y2="145"
+       id="line165" />
+    <line
+       x1="395"
+       y1="180"
+       x2="605"
+       y2="180"
+       id="line166" />
+    <line
+       x1="395"
+       y1="215"
+       x2="605"
+       y2="215"
+       id="line167" />
+    <line
+       x1="395"
+       y1="250"
+       x2="605"
+       y2="250"
+       id="line168" />
+    <line
+       x1="395"
+       y1="285"
+       x2="605"
+       y2="285"
+       id="line169" />
+    <line
+       x1="395"
+       y1="320"
+       x2="605"
+       y2="320"
+       id="line170" />
+    <line
+       x1="395"
+       y1="355"
+       x2="605"
+       y2="355"
+       id="line171" />
+    <!-- Bottom arm (3x8) -->
+    <line
+       x1="465"
+       y1="610"
+       x2="465"
+       y2="890"
+       id="line172" />
+    <line
+       x1="535"
+       y1="610"
+       x2="535"
+       y2="890"
+       id="line173" />
+    <line
+       x1="395"
+       y1="645"
+       x2="605"
+       y2="645"
+       id="line174" />
+    <line
+       x1="395"
+       y1="680"
+       x2="605"
+       y2="680"
+       id="line175" />
+    <line
+       x1="395"
+       y1="715"
+       x2="605"
+       y2="715"
+       id="line176" />
+    <line
+       x1="395"
+       y1="750"
+       x2="605"
+       y2="750"
+       id="line177" />
+    <line
+       x1="395"
+       y1="785"
+       x2="605"
+       y2="785"
+       id="line178" />
+    <line
+       x1="395"
+       y1="820"
+       x2="605"
+       y2="820"
+       id="line179" />
+    <line
+       x1="395"
+       y1="855"
+       x2="605"
+       y2="855"
+       id="line180" />
+    <!-- Left arm (3x8) -->
+    <line
+       x1="145"
+       y1="395"
+       x2="145"
+       y2="605"
+       id="line181" />
+    <line
+       x1="180"
+       y1="395"
+       x2="180"
+       y2="605"
+       id="line182" />
+    <line
+       x1="215"
+       y1="395"
+       x2="215"
+       y2="605"
+       id="line183" />
+    <line
+       x1="250"
+       y1="395"
+       x2="250"
+       y2="605"
+       id="line184" />
+    <line
+       x1="285"
+       y1="395"
+       x2="285"
+       y2="605"
+       id="line185" />
+    <line
+       x1="320"
+       y1="395"
+       x2="320"
+       y2="605"
+       id="line186" />
+    <line
+       x1="355"
+       y1="395"
+       x2="355"
+       y2="605"
+       id="line187" />
+    <line
+       x1="110"
+       y1="465"
+       x2="390"
+       y2="465"
+       id="line188" />
+    <line
+       x1="110"
+       y1="535"
+       x2="390"
+       y2="535"
+       id="line189" />
+    <!-- Right arm (3x8) -->
+    <line
+       x1="645"
+       y1="395"
+       x2="645"
+       y2="605"
+       id="line190" />
+    <line
+       x1="680"
+       y1="395"
+       x2="680"
+       y2="605"
+       id="line191" />
+    <line
+       x1="715"
+       y1="395"
+       x2="715"
+       y2="605"
+       id="line192" />
+    <line
+       x1="750"
+       y1="395"
+       x2="750"
+       y2="605"
+       id="line193" />
+    <line
+       x1="785"
+       y1="395"
+       x2="785"
+       y2="605"
+       id="line194" />
+    <line
+       x1="820"
+       y1="395"
+       x2="820"
+       y2="605"
+       id="line195" />
+    <line
+       x1="855"
+       y1="395"
+       x2="855"
+       y2="605"
+       id="line196" />
+    <line
+       x1="610"
+       y1="465"
+       x2="890"
+       y2="465"
+       id="line197" />
+    <line
+       x1="610"
+       y1="535"
+       x2="890"
+       y2="535"
+       id="line198" />
+  </g>
+  <!-- Outer track fields (1..68, counter-clockwise) -->
+  <g
+     id="outer-track-fields">
+    <g
+       id="outer-track-field-entries"
+       fill="none"
+       stroke="#222"
+       stroke-width="1"
+       stroke-opacity="0.35">
+      <g
+         id="outer-track-fields-bottom-1"
+         transform="translate(500 890) scale(1.1666667) translate(-500 -890)">
+        <g
+           id="otf-1"
+           data-field="1"
+           data-arm="green">
+          <rect
+             x="530"
+             y="860"
+             width="60"
+             height="30"
+             id="rect198" />
+          <text
+             x="588"
+             y="890"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text198">1</text>
+        </g>
+        <g
+           id="otf-2"
+           data-field="2"
+           data-arm="green">
+          <rect
+             x="530"
+             y="830"
+             width="60"
+             height="30"
+             id="rect199" />
+          <text
+             x="588"
+             y="860"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text199">2</text>
+        </g>
+        <g
+           id="otf-3"
+           data-field="3"
+           data-arm="green">
+          <rect
+             x="530"
+             y="800"
+             width="60"
+             height="30"
+             id="rect200" />
+          <text
+             x="588"
+             y="830"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text200">3</text>
+        </g>
+        <g
+           id="otf-4"
+           data-field="4"
+           data-arm="green">
+          <rect
+             x="530"
+             y="770"
+             width="60"
+             height="30"
+             id="rect201" />
+          <text
+             x="588"
+             y="800"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text201">4</text>
+        </g>
+        <g
+           id="otf-5"
+           data-field="5"
+           data-arm="green">
+          <rect
+             x="530"
+             y="740"
+             width="60"
+             height="30"
+             fill="#c8efc8"
+             id="rect202" />
+          <text
+             x="588"
+             y="770"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text202">5</text>
+        </g>
+        <g
+           id="otf-6"
+           data-field="6"
+           data-arm="green">
+          <rect
+             x="530"
+             y="710"
+             width="60"
+             height="30"
+             id="rect203" />
+          <text
+             x="588"
+             y="740"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text203">6</text>
+        </g>
+        <g
+           id="otf-7"
+           data-field="7"
+           data-arm="green">
+          <rect
+             x="530"
+             y="680"
+             width="60"
+             height="30"
+             id="rect204" />
+          <text
+             x="588"
+             y="710"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text204">7</text>
+        </g>
+        <g
+           id="otf-8"
+           data-field="8"
+           data-arm="green">
+          <rect
+             x="530"
+             y="650"
+             width="60"
+             height="30"
+             id="rect205" />
+          <text
+             x="588"
+             y="680"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text205">8</text>
+        </g>
+      </g>
+      <g
+         id="outer-track-fields-right"
+         transform="translate(890 500) scale(1.1666667) translate(-890 -500)">
+        <g
+           id="otf-9"
+           data-field="9"
+           data-arm="blue">
+          <rect
+             x="650"
+             y="530"
+             width="30"
+             height="60"
+             id="rect206" />
+          <text
+             x="680"
+             y="532"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 680 532)"
+             id="text206">9</text>
+        </g>
+        <g
+           id="otf-10"
+           data-field="10"
+           data-arm="blue">
+          <rect
+             x="680"
+             y="530"
+             width="30"
+             height="60"
+             id="rect207" />
+          <text
+             x="710"
+             y="532"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 710 532)"
+             id="text207">10</text>
+        </g>
+        <g
+           id="otf-11"
+           data-field="11"
+           data-arm="blue">
+          <rect
+             x="710"
+             y="530"
+             width="30"
+             height="60"
+             id="rect208" />
+          <text
+             x="740"
+             y="532"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 740 532)"
+             id="text208">11</text>
+        </g>
+        <g
+           id="otf-12"
+           data-field="12"
+           data-arm="blue">
+          <rect
+             x="740"
+             y="530"
+             width="30"
+             height="60"
+             id="rect209" />
+          <text
+             x="770"
+             y="532"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 770 532)"
+             id="text209">12</text>
+        </g>
+        <g
+           id="otf-13"
+           data-field="13"
+           data-arm="blue">
+          <rect
+             x="770"
+             y="530"
+             width="30"
+             height="60"
+             id="rect210" />
+          <text
+             x="800"
+             y="532"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 800 532)"
+             id="text210">13</text>
+        </g>
+        <g
+           id="otf-14"
+           data-field="14"
+           data-arm="blue">
+          <rect
+             x="800"
+             y="530"
+             width="30"
+             height="60"
+             id="rect211" />
+          <text
+             x="830"
+             y="532"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 830 532)"
+             id="text211">14</text>
+        </g>
+        <g
+           id="otf-15"
+           data-field="15"
+           data-arm="blue">
+          <rect
+             x="830"
+             y="530"
+             width="30"
+             height="60"
+             id="rect212" />
+          <text
+             x="860"
+             y="532"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 860 532)"
+             id="text212">15</text>
+        </g>
+        <g
+           id="otf-16"
+           data-field="16"
+           data-arm="blue">
+          <rect
+             x="860"
+             y="530"
+             width="30"
+             height="60"
+             id="rect213" />
+          <text
+             x="890"
+             y="532"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 890 532)"
+             id="text213">16</text>
+        </g>
+        <g
+           id="otf-17"
+           data-field="17"
+           data-arm="blue">
+          <rect
+             x="860"
+             y="470"
+             width="30"
+             height="60"
+             id="rect214" />
+          <text
+             x="890"
+             y="472"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 890 472)"
+             id="text214">17</text>
+        </g>
+        <g
+           id="otf-18"
+           data-field="18"
+           data-arm="blue">
+          <rect
+             x="860"
+             y="410"
+             width="30"
+             height="60"
+             id="rect215" />
+          <text
+             x="890"
+             y="412"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 890 412)"
+             id="text215">18</text>
+        </g>
+        <g
+           id="otf-19"
+           data-field="19"
+           data-arm="blue">
+          <rect
+             x="830"
+             y="410"
+             width="30"
+             height="60"
+             id="rect216" />
+          <text
+             x="860"
+             y="412"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 860 412)"
+             id="text216">19</text>
+        </g>
+        <g
+           id="otf-20"
+           data-field="20"
+           data-arm="blue">
+          <rect
+             x="800"
+             y="410"
+             width="30"
+             height="60"
+             id="rect217" />
+          <text
+             x="830"
+             y="412"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 830 412)"
+             id="text217">20</text>
+        </g>
+        <g
+           id="otf-21"
+           data-field="21"
+           data-arm="blue">
+          <rect
+             x="770"
+             y="410"
+             width="30"
+             height="60"
+             id="rect218" />
+          <text
+             x="800"
+             y="412"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 800 412)"
+             id="text218">21</text>
+        </g>
+        <g
+           id="otf-22"
+           data-field="22"
+           data-arm="blue">
+          <rect
+             x="740"
+             y="410"
+             width="30"
+             height="60"
+             fill="#c6d9f7"
+             id="rect219" />
+          <text
+             x="770"
+             y="412"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 770 412)"
+             id="text219">22</text>
+        </g>
+        <g
+           id="otf-23"
+           data-field="23"
+           data-arm="blue">
+          <rect
+             x="710"
+             y="410"
+             width="30"
+             height="60"
+             id="rect220" />
+          <text
+             x="740"
+             y="412"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 740 412)"
+             id="text220">23</text>
+        </g>
+        <g
+           id="otf-24"
+           data-field="24"
+           data-arm="blue">
+          <rect
+             x="680"
+             y="410"
+             width="30"
+             height="60"
+             id="rect221" />
+          <text
+             x="710"
+             y="412"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 710 412)"
+             id="text221">24</text>
+        </g>
+        <g
+           id="otf-25"
+           data-field="25"
+           data-arm="blue">
+          <rect
+             x="650"
+             y="410"
+             width="30"
+             height="60"
+             id="rect222" />
+          <text
+             x="680"
+             y="412"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(-90 680 412)"
+             id="text222">25</text>
+        </g>
+      </g>
+      <g
+         id="outer-track-fields-top"
+         transform="translate(500 110) scale(1.1666667) translate(-500 -110)">
+        <g
+           id="otf-26"
+           data-field="26"
+           data-arm="red">
+          <rect
+             x="530"
+             y="320"
+             width="60"
+             height="30"
+             id="rect223" />
+          <text
+             x="532"
+             y="320"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 532 320)"
+             id="text223">26</text>
+        </g>
+        <g
+           id="otf-27"
+           data-field="27"
+           data-arm="red">
+          <rect
+             x="530"
+             y="290"
+             width="60"
+             height="30"
+             id="rect224" />
+          <text
+             x="532"
+             y="290"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 532 290)"
+             id="text224">27</text>
+        </g>
+        <g
+           id="otf-28"
+           data-field="28"
+           data-arm="red">
+          <rect
+             x="530"
+             y="260"
+             width="60"
+             height="30"
+             id="rect225" />
+          <text
+             x="532"
+             y="260"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 532 260)"
+             id="text225">28</text>
+        </g>
+        <g
+           id="otf-29"
+           data-field="29"
+           data-arm="red">
+          <rect
+             x="530"
+             y="230"
+             width="60"
+             height="30"
+             id="rect226" />
+          <text
+             x="532"
+             y="230"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 532 230)"
+             id="text226">29</text>
+        </g>
+        <g
+           id="otf-30"
+           data-field="30"
+           data-arm="red">
+          <rect
+             x="530"
+             y="200"
+             width="60"
+             height="30"
+             id="rect227" />
+          <text
+             x="532"
+             y="200"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 532 200)"
+             id="text227">30</text>
+        </g>
+        <g
+           id="otf-31"
+           data-field="31"
+           data-arm="red">
+          <rect
+             x="530"
+             y="170"
+             width="60"
+             height="30"
+             id="rect228" />
+          <text
+             x="532"
+             y="170"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 532 170)"
+             id="text228">31</text>
+        </g>
+        <g
+           id="otf-32"
+           data-field="32"
+           data-arm="red">
+          <rect
+             x="530"
+             y="140"
+             width="60"
+             height="30"
+             id="rect229" />
+          <text
+             x="532"
+             y="140"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 532 140)"
+             id="text229">32</text>
+        </g>
+        <g
+           id="otf-33"
+           data-field="33"
+           data-arm="red">
+          <rect
+             x="530"
+             y="110"
+             width="60"
+             height="30"
+             id="rect230" />
+          <text
+             x="532"
+             y="110"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 532 110)"
+             id="text230">33</text>
+        </g>
+        <g
+           id="otf-34"
+           data-field="34"
+           data-arm="red">
+          <rect
+             x="470"
+             y="110"
+             width="60"
+             height="30"
+             id="rect231" />
+          <text
+             x="472"
+             y="110"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 472 110)"
+             id="text231">34</text>
+        </g>
+        <g
+           id="otf-35"
+           data-field="35"
+           data-arm="red">
+          <rect
+             x="410"
+             y="110"
+             width="60"
+             height="30"
+             id="rect232" />
+          <text
+             x="412"
+             y="110"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 412 110)"
+             id="text232">35</text>
+        </g>
+        <g
+           id="otf-36"
+           data-field="36"
+           data-arm="red">
+          <rect
+             x="410"
+             y="140"
+             width="60"
+             height="30"
+             id="rect233" />
+          <text
+             x="412"
+             y="140"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 412 140)"
+             id="text233">36</text>
+        </g>
+        <g
+           id="otf-37"
+           data-field="37"
+           data-arm="red">
+          <rect
+             x="410"
+             y="170"
+             width="60"
+             height="30"
+             id="rect234" />
+          <text
+             x="412"
+             y="170"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 412 170)"
+             id="text234">37</text>
+        </g>
+        <g
+           id="otf-38"
+           data-field="38"
+           data-arm="red">
+          <rect
+             x="410"
+             y="200"
+             width="60"
+             height="30"
+             id="rect235" />
+          <text
+             x="412"
+             y="200"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 412 200)"
+             id="text235">38</text>
+        </g>
+        <g
+           id="otf-39"
+           data-field="39"
+           data-arm="red">
+          <rect
+             x="410"
+             y="230"
+             width="60"
+             height="30"
+             fill="#f7c6c6"
+             id="rect236" />
+          <text
+             x="412"
+             y="230"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 412 230)"
+             id="text236">39</text>
+        </g>
+        <g
+           id="otf-40"
+           data-field="40"
+           data-arm="red">
+          <rect
+             x="410"
+             y="260"
+             width="60"
+             height="30"
+             id="rect237" />
+          <text
+             x="412"
+             y="260"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 412 260)"
+             id="text237">40</text>
+        </g>
+        <g
+           id="otf-41"
+           data-field="41"
+           data-arm="red">
+          <rect
+             x="410"
+             y="290"
+             width="60"
+             height="30"
+             id="rect238" />
+          <text
+             x="412"
+             y="290"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 412 290)"
+             id="text238">41</text>
+        </g>
+        <g
+           id="otf-42"
+           data-field="42"
+           data-arm="red">
+          <rect
+             x="410"
+             y="320"
+             width="60"
+             height="30"
+             id="rect239" />
+          <text
+             x="412"
+             y="320"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(180 412 320)"
+             id="text239">42</text>
+        </g>
+      </g>
+      <g
+         id="outer-track-fields-left"
+         transform="translate(110 500) scale(1.1666667) translate(-110 -500)">
+        <g
+           id="otf-43"
+           data-field="43"
+           data-arm="yellow">
+          <rect
+             x="320"
+             y="410"
+             width="30"
+             height="60"
+             id="rect240" />
+          <text
+             x="320"
+             y="468"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 320 468)"
+             id="text240">43</text>
+        </g>
+        <g
+           id="otf-44"
+           data-field="44"
+           data-arm="yellow">
+          <rect
+             x="290"
+             y="410"
+             width="30"
+             height="60"
+             id="rect241" />
+          <text
+             x="290"
+             y="468"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 290 468)"
+             id="text241">44</text>
+        </g>
+        <g
+           id="otf-45"
+           data-field="45"
+           data-arm="yellow">
+          <rect
+             x="260"
+             y="410"
+             width="30"
+             height="60"
+             id="rect242" />
+          <text
+             x="260"
+             y="468"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 260 468)"
+             id="text242">45</text>
+        </g>
+        <g
+           id="otf-46"
+           data-field="46"
+           data-arm="yellow">
+          <rect
+             x="230"
+             y="410"
+             width="30"
+             height="60"
+             id="rect243" />
+          <text
+             x="230"
+             y="468"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 230 468)"
+             id="text243">46</text>
+        </g>
+        <g
+           id="otf-47"
+           data-field="47"
+           data-arm="yellow">
+          <rect
+             x="200"
+             y="410"
+             width="30"
+             height="60"
+             id="rect244" />
+          <text
+             x="200"
+             y="468"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 200 468)"
+             id="text244">47</text>
+        </g>
+        <g
+           id="otf-48"
+           data-field="48"
+           data-arm="yellow">
+          <rect
+             x="170"
+             y="410"
+             width="30"
+             height="60"
+             id="rect245" />
+          <text
+             x="170"
+             y="468"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 170 468)"
+             id="text245">48</text>
+        </g>
+        <g
+           id="otf-49"
+           data-field="49"
+           data-arm="yellow">
+          <rect
+             x="140"
+             y="410"
+             width="30"
+             height="60"
+             id="rect246" />
+          <text
+             x="140"
+             y="468"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 140 468)"
+             id="text246">49</text>
+        </g>
+        <g
+           id="otf-50"
+           data-field="50"
+           data-arm="yellow">
+          <rect
+             x="110"
+             y="410"
+             width="30"
+             height="60"
+             id="rect247" />
+          <text
+             x="110"
+             y="468"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 110 468)"
+             id="text247">50</text>
+        </g>
+        <g
+           id="otf-51"
+           data-field="51"
+           data-arm="yellow">
+          <rect
+             x="110"
+             y="470"
+             width="30"
+             height="60"
+             id="rect248" />
+          <text
+             x="110"
+             y="528"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 110 528)"
+             id="text248">51</text>
+        </g>
+        <g
+           id="otf-52"
+           data-field="52"
+           data-arm="yellow">
+          <rect
+             x="110"
+             y="530"
+             width="30"
+             height="60"
+             id="rect249" />
+          <text
+             x="110"
+             y="588"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 110 588)"
+             id="text249">52</text>
+        </g>
+        <g
+           id="otf-53"
+           data-field="53"
+           data-arm="yellow">
+          <rect
+             x="140"
+             y="530"
+             width="30"
+             height="60"
+             id="rect250" />
+          <text
+             x="140"
+             y="588"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 140 588)"
+             id="text250">53</text>
+        </g>
+        <g
+           id="otf-54"
+           data-field="54"
+           data-arm="yellow">
+          <rect
+             x="170"
+             y="530"
+             width="30"
+             height="60"
+             id="rect251" />
+          <text
+             x="170"
+             y="588"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 170 588)"
+             id="text251">54</text>
+        </g>
+        <g
+           id="otf-55"
+           data-field="55"
+           data-arm="yellow">
+          <rect
+             x="200"
+             y="530"
+             width="30"
+             height="60"
+             id="rect252" />
+          <text
+             x="200"
+             y="588"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 200 588)"
+             id="text252">55</text>
+        </g>
+        <g
+           id="otf-56"
+           data-field="56"
+           data-arm="yellow">
+          <rect
+             x="230"
+             y="530"
+             width="30"
+             height="60"
+             fill="#f7e7a8"
+             id="rect253" />
+          <text
+             x="230"
+             y="588"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 230 588)"
+             id="text253">56</text>
+        </g>
+        <g
+           id="otf-57"
+           data-field="57"
+           data-arm="yellow">
+          <rect
+             x="260"
+             y="530"
+             width="30"
+             height="60"
+             id="rect254" />
+          <text
+             x="260"
+             y="588"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 260 588)"
+             id="text254">57</text>
+        </g>
+        <g
+           id="otf-58"
+           data-field="58"
+           data-arm="yellow">
+          <rect
+             x="290"
+             y="530"
+             width="30"
+             height="60"
+             id="rect255" />
+          <text
+             x="290"
+             y="588"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 290 588)"
+             id="text255">58</text>
+        </g>
+        <g
+           id="otf-59"
+           data-field="59"
+           data-arm="yellow">
+          <rect
+             x="320"
+             y="530"
+             width="30"
+             height="60"
+             id="rect256" />
+          <text
+             x="320"
+             y="588"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             transform="rotate(90 320 588)"
+             id="text256">59</text>
+        </g>
+      </g>
+      <g
+         id="outer-track-fields-bottom-2"
+         transform="translate(500 890) scale(1.1666667) translate(-500 -890)">
+        <g
+           id="otf-60"
+           data-field="60"
+           data-arm="green">
+          <rect
+             x="410"
+             y="650"
+             width="60"
+             height="30"
+             id="rect257" />
+          <text
+             x="468"
+             y="680"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text257">60</text>
+        </g>
+        <g
+           id="otf-61"
+           data-field="61"
+           data-arm="green">
+          <rect
+             x="410"
+             y="680"
+             width="60"
+             height="30"
+             id="rect258" />
+          <text
+             x="468"
+             y="710"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text258">61</text>
+        </g>
+        <g
+           id="otf-62"
+           data-field="62"
+           data-arm="green">
+          <rect
+             x="410"
+             y="710"
+             width="60"
+             height="30"
+             id="rect259" />
+          <text
+             x="468"
+             y="740"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text259">62</text>
+        </g>
+        <g
+           id="otf-63"
+           data-field="63"
+           data-arm="green">
+          <rect
+             x="410"
+             y="740"
+             width="60"
+             height="30"
+             id="rect260" />
+          <text
+             x="468"
+             y="770"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text260">63</text>
+        </g>
+        <g
+           id="otf-64"
+           data-field="64"
+           data-arm="green">
+          <rect
+             x="410"
+             y="770"
+             width="60"
+             height="30"
+             id="rect261" />
+          <text
+             x="468"
+             y="800"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text261">64</text>
+        </g>
+        <g
+           id="otf-65"
+           data-field="65"
+           data-arm="green">
+          <rect
+             x="410"
+             y="800"
+             width="60"
+             height="30"
+             id="rect262" />
+          <text
+             x="468"
+             y="830"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text262">65</text>
+        </g>
+        <g
+           id="otf-66"
+           data-field="66"
+           data-arm="green">
+          <rect
+             x="410"
+             y="830"
+             width="60"
+             height="30"
+             id="rect263" />
+          <text
+             x="468"
+             y="860"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text263">66</text>
+        </g>
+        <g
+           id="otf-67"
+           data-field="67"
+           data-arm="green">
+          <rect
+             x="410"
+             y="860"
+             width="60"
+             height="30"
+             id="rect264" />
+          <text
+             x="468"
+             y="890"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text264">67</text>
+        </g>
+        <g
+           id="otf-68"
+           data-field="68"
+           data-arm="green">
+          <rect
+             x="470"
+             y="860"
+             width="60"
+             height="30"
+             id="rect265" />
+          <text
+             x="528"
+             y="890"
+             font-family="Segoe UI, Arial, sans-serif"
+             font-size="10"
+             fill="#111"
+             text-anchor="end"
+             dominant-baseline="text-after-edge"
+             id="text265">68</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <!-- Pawns: initial setup (4 per color in nests) -->
+  <g
+     stroke="#222"
+     stroke-width="2"
+     id="g280">
+    <!-- Red -->
+    <circle
+       cx="215"
+       cy="215"
+       r="13"
+       fill="#d94848"
+       id="circle265" />
+    <circle
+       cx="275"
+       cy="215"
+       r="13"
+       fill="#d94848"
+       id="circle266" />
+    <circle
+       cx="215"
+       cy="275"
+       r="13"
+       fill="#d94848"
+       id="circle267" />
+    <circle
+       cx="275"
+       cy="275"
+       r="13"
+       fill="#d94848"
+       id="circle268" />
+    <!-- Blue -->
+    <circle
+       cx="725"
+       cy="215"
+       r="13"
+       fill="#4779d9"
+       id="circle269" />
+    <circle
+       cx="785"
+       cy="215"
+       r="13"
+       fill="#4779d9"
+       id="circle270" />
+    <circle
+       cx="725"
+       cy="275"
+       r="13"
+       fill="#4779d9"
+       id="circle271" />
+    <circle
+       cx="785"
+       cy="275"
+       r="13"
+       fill="#4779d9"
+       id="circle272" />
+    <!-- Yellow -->
+    <circle
+       cx="215"
+       cy="725"
+       r="13"
+       fill="#d6b229"
+       id="circle273" />
+    <circle
+       cx="275"
+       cy="725"
+       r="13"
+       fill="#d6b229"
+       id="circle274" />
+    <circle
+       cx="215"
+       cy="785"
+       r="13"
+       fill="#d6b229"
+       id="circle275" />
+    <circle
+       cx="275"
+       cy="785"
+       r="13"
+       fill="#d6b229"
+       id="circle276" />
+    <!-- Green -->
+    <circle
+       cx="725"
+       cy="725"
+       r="13"
+       fill="#4ea64e"
+       id="circle277" />
+    <circle
+       cx="785"
+       cy="725"
+       r="13"
+       fill="#4ea64e"
+       id="circle278" />
+    <circle
+       cx="725"
+       cy="785"
+       r="13"
+       fill="#4ea64e"
+       id="circle279" />
+    <circle
+       cx="785"
+       cy="785"
+       r="13"
+       fill="#4ea64e"
+       id="circle280" />
+  </g>
+  <!-- Safe spaces (entry + additional safe squares) -->
+  <g
+     id="safe-spaces">
+    <g
+       id="safe-spaces-top"
+       transform="translate(500 110) scale(1.1666667) translate(-500 -110)">
+      <use
+         href="#safety_space"
+         transform="translate(485 110) scale(1.25)"
+         id="use280" />
+      <use
+         href="#safety_space"
+         transform="translate(545 230) scale(1.25)"
+         id="use281" />
+      <use
+         href="#safety_space"
+         transform="translate(425 230) scale(1.25)"
+         id="use282" />
+    </g>
+    <g
+       id="safe-spaces-right"
+       transform="translate(890 500) scale(1.1666667) translate(-890 -500)">
+      <use
+         href="#safety_space"
+         transform="translate(860 485) scale(1.25)"
+         id="use283" />
+      <use
+         href="#safety_space"
+         transform="translate(740 545) scale(1.25)"
+         id="use284" />
+      <use
+         href="#safety_space"
+         transform="translate(740 425) scale(1.25)"
+         id="use285" />
+    </g>
+    <g
+       id="safe-spaces-bottom"
+       transform="translate(500 890) scale(1.1666667) translate(-500 -890)">
+      <use
+         href="#safety_space"
+         transform="translate(485 860) scale(1.25)"
+         id="use286" />
+      <use
+         href="#safety_space"
+         transform="translate(545 740) scale(1.25)"
+         id="use287" />
+      <use
+         href="#safety_space"
+         transform="translate(425 740) scale(1.25)"
+         id="use288" />
+    </g>
+    <g
+       id="safe-spaces-left"
+       transform="translate(110 500) scale(1.1666667) translate(-110 -500)">
+      <use
+         href="#safety_space"
+         transform="translate(110 485) scale(1.25)"
+         id="use289" />
+      <use
+         href="#safety_space"
+         transform="translate(230 425) scale(1.25)"
+         id="use290" />
+      <use
+         href="#safety_space"
+         transform="translate(230 545) scale(1.25)"
+         id="use291" />
+    </g>
+  </g>
+  <!-- Labels -->
+  <g
+     font-family="Cinzel Decorative, Segoe UI, Arial, serif"
+     font-size="24"
+     fill="#222"
+     text-anchor="middle"
+     id="g291">
+    <text
+       x="500"
+       y="510"
+       font-size="28"
+       font-weight="700"
+       id="text291">HOME</text>
+  </g>
+</svg>
